@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+ICNFxMCAYpi13lhgbM0lMSIZnBYwg4Iuv/kva3wr1TVUjOb3fPz5lW2xVUruTWGeZC1ncwfFqUyIFxPdFH4w==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade\\Shazam.Integrations.Facade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkiri\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\kkiri\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\kkiri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

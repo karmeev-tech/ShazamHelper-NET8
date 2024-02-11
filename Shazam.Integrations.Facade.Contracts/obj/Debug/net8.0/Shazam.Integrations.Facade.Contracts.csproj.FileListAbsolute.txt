@@ -1,0 +1,11 @@
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\bin\Debug\net8.0\Shazam.Integrations.Facade.Contracts.deps.json
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\bin\Debug\net8.0\Shazam.Integrations.Facade.Contracts.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\bin\Debug\net8.0\Shazam.Integrations.Facade.Contracts.pdb
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\Shazam.Integrations.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\Shazam.Integrations.Facade.Contracts.AssemblyInfoInputs.cache
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\Shazam.Integrations.Facade.Contracts.AssemblyInfo.cs
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\Shazam.Integrations.Facade.Contracts.csproj.CoreCompileInputs.cache
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\Shazam.Integrations.Facade.Contracts.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\refint\Shazam.Integrations.Facade.Contracts.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\Shazam.Integrations.Facade.Contracts.pdb
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade.Contracts\obj\Debug\net8.0\ref\Shazam.Integrations.Facade.Contracts.dll

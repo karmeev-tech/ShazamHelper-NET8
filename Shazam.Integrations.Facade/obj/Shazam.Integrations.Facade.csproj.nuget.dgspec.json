@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade\\Shazam.Integrations.Facade.csproj": {}
+  },
+  "projects": {
+    "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade.Contracts\\Shazam.Integrations.Facade.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade.Contracts\\Shazam.Integrations.Facade.Contracts.csproj",
+        "projectName": "Shazam.Integrations.Facade.Contracts",
+        "projectPath": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade.Contracts\\Shazam.Integrations.Facade.Contracts.csproj",
+        "packagesPath": "C:\\Users\\kkiri\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kkiri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade\\Shazam.Integrations.Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade\\Shazam.Integrations.Facade.csproj",
+        "projectName": "Shazam.Integrations.Facade",
+        "projectPath": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade\\Shazam.Integrations.Facade.csproj",
+        "packagesPath": "C:\\Users\\kkiri\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kkiri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade.Contracts\\Shazam.Integrations.Facade.Contracts.csproj": {
+                "projectPath": "E:\\Development\\Projects\\RiderProject\\MetaMusic\\Shazam.Integrations.Facade.Contracts\\Shazam.Integrations.Facade.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

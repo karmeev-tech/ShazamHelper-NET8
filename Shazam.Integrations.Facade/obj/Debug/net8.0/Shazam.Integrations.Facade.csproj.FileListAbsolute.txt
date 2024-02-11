@@ -1,0 +1,15 @@
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\bin\Debug\net8.0\Shazam.Integrations.Facade.deps.json
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\bin\Debug\net8.0\Shazam.Integrations.Facade.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\bin\Debug\net8.0\Shazam.Integrations.Facade.pdb
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\bin\Debug\net8.0\Shazam.Integrations.Facade.Contracts.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\bin\Debug\net8.0\Shazam.Integrations.Facade.Contracts.pdb
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.csproj.AssemblyReference.cache
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.AssemblyInfoInputs.cache
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.AssemblyInfo.cs
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.csproj.CoreCompileInputs.cache
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.csproj.CopyComplete
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\refint\Shazam.Integrations.Facade.dll
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\Shazam.Integrations.Facade.pdb
+E:\Development\Projects\RiderProject\MetaMusic\Shazam.Integrations.Facade\obj\Debug\net8.0\ref\Shazam.Integrations.Facade.dll

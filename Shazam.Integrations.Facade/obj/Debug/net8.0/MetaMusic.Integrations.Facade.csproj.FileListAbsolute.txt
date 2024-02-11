@@ -1,0 +1,15 @@
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\bin\Debug\net8.0\MetaMusic.Integrations.Facade.deps.json
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\bin\Debug\net8.0\MetaMusic.Integrations.Facade.dll
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\bin\Debug\net8.0\MetaMusic.Integrations.Facade.pdb
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\bin\Debug\net8.0\MetaMusic.Integrations.Facade.Contracts.dll
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\bin\Debug\net8.0\MetaMusic.Integrations.Facade.Contracts.pdb
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.csproj.AssemblyReference.cache
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.AssemblyInfoInputs.cache
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.AssemblyInfo.cs
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.csproj.CoreCompileInputs.cache
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.csproj.CopyComplete
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.dll
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\refint\MetaMusic.Integrations.Facade.dll
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\MetaMusic.Integrations.Facade.pdb
+E:\Development\Projects\RiderProject\MetaMusic\MetaMusic.Integrations.Facade\obj\Debug\net8.0\ref\MetaMusic.Integrations.Facade.dll

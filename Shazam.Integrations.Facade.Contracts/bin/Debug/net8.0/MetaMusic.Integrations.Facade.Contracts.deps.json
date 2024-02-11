@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MetaMusic.Integrations.Facade.Contracts/1.0.0": {
+        "runtime": {
+          "MetaMusic.Integrations.Facade.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetaMusic.Integrations.Facade.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
